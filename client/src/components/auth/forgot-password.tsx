@@ -71,7 +71,7 @@ function ForgotPassword() {
 							<FormItem>
 								<FormLabel>Email address</FormLabel>
 								<FormControl>
-									<Input placeholder='example@sammi.ac' {...field} />
+									<Input placeholder='example@gmail.com' {...field} />
 								</FormControl>
 								<FormMessage />
 							</FormItem>
