@@ -40,12 +40,10 @@ function Navbar() {
       <div className='w-full h-24 bg-gray-900 fixed inset-0'>
         <div className='w-full h-full flex justify-between items-center container'>
           <Link
-            className='flex items-center justify-center gap-2 ml-2'
+            className='flex items-center justify-center gap-2 text-4xl text-violet-300 ml-2'
             to={'/'}
           >
-            {/* <img src={'/logo.svg'} /> */}
-            {/* <p className='font-bold text-4xl'>Sammi</p> */}
-            Jaloliddin.dev
+            .dev
           </Link>
 
           <div className='flex gap-2 items-center'>
