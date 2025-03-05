@@ -77,7 +77,7 @@ function Login() {
               <FormItem>
                 <FormLabel>Email address</FormLabel>
                 <FormControl>
-                  <Input placeholder='example@gmail.com' {...field} />
+                  <Input placeholder='example@gmail.com...' {...field} />
                 </FormControl>
                 <FormMessage />
               </FormItem>
