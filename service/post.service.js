@@ -9,6 +9,7 @@ class PostService {
       picture: fileName,
       author,
     });
+    console.log(post);
     return newPost;
   }
 
